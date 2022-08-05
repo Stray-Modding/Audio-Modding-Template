@@ -3,7 +3,7 @@ This is a template UE project for audio modding.
 
 All of the assets are reconstructed from the unpacked asset data meaning that they have the same properties as the original assets. 
 
-Use is as simple as downloading Unreal Engine 4.27 and opening the `Hk_Project.uproject`!
+Use is as simple as downloading Unreal Engine 4.27 and opening the `Hk_project.uproject`!
 
 Thanks to `LongerWarrior` for writing the `Cooked Asset Serializer` tool that allows us to reconstruct the assets, and `Archengius` for creating the `UEAssetToolkit` plugin that generates the assets inside the project.
 
